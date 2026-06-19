@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Model and Data Artifacts
+*.pth
+*.pkl
+*.npz
+*.npy
+
+# Environment
+.env
+venv/
+.env.*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Others
+*.swp
