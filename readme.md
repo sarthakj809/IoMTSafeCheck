@@ -93,7 +93,6 @@ streamlit run app/app.py
 - **Preprocessing**:
   - StandardScaler normalization
   - LabelEncoder for attack types
-  - Sequence windowing (10 steps)
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
